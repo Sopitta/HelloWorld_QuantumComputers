@@ -12,5 +12,5 @@
      ```
 
 3. **Installation Tutorial:**
-   - I followed this tutorial for the installation process. Check it out for detailed instructions!
+   - I followed this [tutorial](https://www.youtube.com/watch?v=dZWz4Gs_BuI) for the installation process. Check it out for detailed instructions!
 
